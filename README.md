@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamleshpc&label=Profile%20views&color=0e75b6&style=flat" alt="kamleshpc" /> </p>
 
-- 🔭 I’m currently working on **3D MAX, MAYA, Photoshop, Pre-production**
+- 🔭 I’m currently working on **ZBrush, 3D MAX, MAYA, Photoshop, Pre-production**
 
 - 🌱 I’m currently learning **Game Art**
 
