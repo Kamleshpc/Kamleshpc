@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Chavan</h1>
 <h3 align="center">Game Developer From Pune India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamleshpc&label=Profile%20views&color=0e75b6&style=flat" alt="kamleshpc" /> </p>
-
-- 🔭 I’m currently working on **ZBrush, 3D MAX, MAYA, Photoshop, Pre-production**
+- 🔭 I’m currently working on **ZBrush, 3D MAX, Unity,  MAYA**
 
 - 🌱 I’m currently learning **Game Art**
 
 - 📫 How to reach me **kamleshpc444@gmail.com**
 
-- ⚡ Fun fact **I Love To Pull Pranks On My Friends And Also Love To Travel**
+- ⚡ Fun fact **I love to play video games and love to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
